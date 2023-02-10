@@ -55,7 +55,18 @@
     </tr>
 </table>
 
-# 2️⃣ 로드맵
+# 1️⃣ 학습 기술
+<img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MVC-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Data JPA-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Querydsl-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/객체지향-6DB33F?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/네트워크-6DB33F?style=flat&logoColor=white"/></a>
+
+# 2️⃣ 학습 로드맵
 * [김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵](https://www.inflearn.com/roadmaps/149)
 * [우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)
 
